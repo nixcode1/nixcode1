@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, Welcome to my github profile
+## I am Amaechi chukwuebuka
+***Developing applications is fun(when it works😄)***
+
+***I work with:***
+- Dart(Flutter)
+- Python(Django and FastApi)
+- Javascript(Express, React and Vue)
 
 <!--
 **nixcode1/nixcode1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
