@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with improving open source project
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-  <a href="https://twitter.com/nixcode1_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp; 
+  ![Email](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=gmail)&nbsp;
 - ⚡ Fun fact: I hate javascript... sshhhhh.. don't tell anyone
 
 ### 🛠 &nbsp;Tech Stack
