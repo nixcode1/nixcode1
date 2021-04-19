@@ -2,11 +2,14 @@
 ## I am Amaechi chukwuebuka
 ***Developing applications is fun(when it works😄)***
 
-***I work with:***
-- Dart(Flutter)
-- Python(Django and FastApi)
-- Javascript(Express, React and Vue)
+***Stack***
 
+- Dart(Flutter)
+[Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <!--
 **nixcode1/nixcode1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
