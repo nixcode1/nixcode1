@@ -1,4 +1,4 @@
-# Hi there, Welcome to my github profile
+# Hi there
 ## I am Amaechi chukwuebuka
 ***Developing applications is fun(when it works😄)***
 
@@ -9,7 +9,8 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 - ⚡ Fun fact: I hate javascript... sshhhhh.. don't tell anyone
-***Stack***
+
+### 🛠 &nbsp;Tech Stack
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
