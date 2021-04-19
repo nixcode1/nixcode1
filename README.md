@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with improving open source project
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-  ![amaechi.chukwuebuka1@gmail.com](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)&nbsp;
+  ![Email](https://img.shields.io/badge/-amaechi.chukwuebuka1@gmail.com-05122A?style=flat&logo=gmail)&nbsp;
 - ⚡ Fun fact: I hate javascript... sshhhhh.. don't tell anyone
 
 ### 🛠 &nbsp;Tech Stack
