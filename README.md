@@ -10,6 +10,7 @@
 - 📫 How to reach me: 
   ![Email](https://img.shields.io/badge/-amaechi.chukwuebuka1@gmail.com-05122A?style=flat&logo=gmail)&nbsp;
   ![Twitter](https://img.shields.io/badge/-@nixcode1_-05122A?style=flat&logo=twitter&link=https://twitter.com/nixcode1_)&nbsp;
+  <a href="https://twitter.com/nixcode1_">![Twitter](https://img.shields.io/badge/-@nixcode1_-05122A?style=flat&logo=twitter&link=https://twitter.com/nixcode1_)&nbsp;</a>
 - ⚡ Fun fact: I hate javascript... sshhhhh.. don't tell anyone
 
 ### 🛠 &nbsp;Tech Stack
