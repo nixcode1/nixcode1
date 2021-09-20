@@ -2,9 +2,9 @@
 ## I am Amaechi chukwuebuka
 ***Developing applications is fun(when it works😄)***
 
-- 🔭 I’m currently working on apps to improve the lives of students in my university
-- 🌱 I’m currently learning algorithms and design patterns
-- 👯 I’m looking to collaborate on interesting projects with a touch of fun yet some complexity
+- 🔭 I’m currently working on apps to improve the lives of people in my community
+- 🌱 I’m currently learning algorithms and design patterns to improve my skills.
+- 👯 I’m looking to collaborate on interesting projects with a touch of fun yet some complexity.
 - 🤔 I’m looking to help with improve open source projects
 - 💬 Ask me about ...
 - 📫 How to reach me: 
